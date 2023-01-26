@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Welcome to training course, we are happy to know about you, please join with us</h1>
+    <h1>Welcome to the top learning institution, we would like to know about your skill</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou for your subscription </h1>
+   <h1> Thankyou for part of our institution </h1>
 
   
 </form>
