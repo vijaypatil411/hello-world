@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Welcome to the top learning institution, we would like to know about your skill</h1>
+    <h1>This test will teach how to automate image load to dockerhub</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
