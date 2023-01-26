@@ -32,6 +32,6 @@
   </div>
 
    <h1> Thankyou for part of our institution </h1>
-
+   <h1> We will send email with your account approval link </h1>
   
 </form>
