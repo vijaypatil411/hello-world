@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>This test will teach how to automate image load to dockerhub</h1>
+    <h1>Training done by docker team</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
